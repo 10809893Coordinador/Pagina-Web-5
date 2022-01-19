@@ -55,17 +55,22 @@ li.dropdown {
   display: block;
 }
 	
-	h2 {
-	font-size:14px;
-	}
-	
 	h1.trirong {
+	font-family: "Trirong", sans-serif;
+	font-size: 50px;
+	padding: 1px;
+	text-shadow: 2px 0 3px #ff0002;
+	}
+	h2.trirong {
 	font-family: "Trirong", sans-serif;
 	font-size: 20px;
 	border: 1px solid grey;
 	border-radius: 8px;
 	padding: 1px;
 	text-shadow: 2px 0 3px #ff0002;
+	}
+	h3 {
+	font-size: 15px;
 	}
 	a.m1 {
 	margin-left: 10px;
@@ -80,3 +85,4 @@ li.dropdown {
 	font.rek {
 	color: #3E719A
 	}
+	
