@@ -1,58 +1,58 @@
 	ul.menu { 
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333;
-  left:0;
-  top: 0;
-  width: 100%;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+	left:0;
+	top: 0;
+	width: 100%;
 }
 
-li.nu {
-  float: left;
-   border-right:1px solid #bbb;
+	li.nu {
+	float: left;
+	border-right:1px solid #bbb;
 }
 
-li.nu a, .dropbtn {
-  display: inline-block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  border: 1px white;
+	li.nu a, .dropbtn {
+	display: inline-block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	border: 1px white;
 
 }
 
-li.nu a:hover, .dropdown:hover .dropbtn {
-  background-color: grey;
+	li.nu a:hover, .dropdown:hover .dropbtn {
+	background-color: grey;
 }
 
-li.dropdown {
-  display: inline-block;
+	li.dropdown {
+	display: inline-block;
 }
 
-.dropdown-content {
-  display: none;
-  position: absolute;
-  background-color: #f9f9f9;
-  min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: 1;
+	.dropdown-content {
+	display: none;
+	position: absolute;
+	background-color: #f9f9f9;
+	min-width: 160px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	z-index: 1;
 }
 
-.dropdown-content a {
-  color: black;
-  padding: 12px 16px;
-  text-decoration: none;
-  display: block;
-  text-align: left;
+	.dropdown-content a {
+	color: black;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+	text-align: left;
 }
 
-.dropdown-content a:hover {background-color: #DCDBDB;}
+	.dropdown-content a:hover {background-color: #DCDBDB;}
 
-.dropdown:hover .dropdown-content {
-  display: block;
+	.dropdown:hover .dropdown-content {
+	display: block;
 }
 	
 	h1.trirong {
@@ -60,7 +60,7 @@ li.dropdown {
 	font-size: 50px;
 	padding: 1px;
 	text-shadow: 2px 0 3px #ff0002;
-	}
+}
 	h2.trirong {
 	font-family: "Trirong", sans-serif;
 	font-size: 20px;
@@ -68,21 +68,39 @@ li.dropdown {
 	border-radius: 8px;
 	padding: 1px;
 	text-shadow: 2px 0 3px #ff0002;
-	}
+}
 	h3 {
 	font-size: 15px;
-	}
+	margin-left: 10px;
+	margin-right: 10px;
+}
 	a.m1 {
 	margin-left: 10px;
 	margin-right: 10px;
-	}
+}
 	div.a {
 	width: 300px;
 	border: 1px solid red;
 	padding: 2px;
 	margin-left: 124px;
-	}
+}
 	font.rek {
 	color: #3E719A
-	}
+}
+	table.zeta {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+	th.ab, td.ab {
+	text-align: left;
+	padding: 8px;
+}
+
+	tr.ab:nth-child(odd)
+	{background-color: #FFFFFF;} 
+
+	tr.ab:nth-child(even)
+	{background-color: #DCDFB9;}
+
 	
