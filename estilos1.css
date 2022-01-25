@@ -78,10 +78,6 @@ li.dropdown {
   display: block;
 }
 
-a{
-text-decoration: none;
-color:970084;
-}
-a:hover{
-	color:red;
+p.a {
+  vertical-align: text-top;
 }
