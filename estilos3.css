@@ -1,4 +1,4 @@
-	ul.menu { 
+		ul.menu { 
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
@@ -74,6 +74,20 @@
 	margin-left: 10px;
 	margin-right: 10px;
 }
+	h4.trirong {
+	font-family: "Trirong", sans-serif;
+	font-size: 50px;
+	padding: 1px;
+	text-shadow: 2px 0 3px #A0FAE6;
+}
+	h5.trirong {
+	font-family: "Trirong", sans-serif;
+	font-size: 20px;
+	border: 1px solid grey;
+	border-radius: 8px;
+	padding: 1px;
+	text-shadow: 2px 0 3px #A0FAE6;
+}
 	a.m1 {
 	margin-left: 10px;
 	margin-right: 10px;
@@ -102,5 +116,16 @@
 
 	tr.ab:nth-child(even)
 	{background-color: #DCDFB9;}
-
 	
+	ul.lista {
+	background: #778FBB;
+	padding: 20px;
+}
+
+	ul li.premios {
+	background: #DCDFB9;
+	margin: 5px;
+}
+	img.axa {
+	vertical-align: baseline;
+} 
