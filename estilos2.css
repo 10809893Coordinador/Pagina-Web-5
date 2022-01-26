@@ -47,7 +47,7 @@ li.nu a, .dropbtn {
 }
 
 li.nu a:hover, .dropdown:hover .dropbtn {
-  background-color: FF7474;
+  background-color: grey;
 }
 li.dropdown {
   display: inline-block;
@@ -70,7 +70,7 @@ li.dropdown {
   text-align: left;
 }
 
-.dropdown-content a:hover {background-color: #FFC4C4;}
+.dropdown-content a:hover {background-color:  #DCDBDB;}
 
 .dropdown:hover .dropdown-content {
   display: block;
@@ -93,7 +93,7 @@ th.mun, td.mun {
 th.mund, td.mund {
   text-align: left;
   padding: 8px;
-  background-color:FF7474;
+  background-color:FF2C2C;
 }
 
 table.men {
@@ -104,4 +104,12 @@ th.muna, td.muna {
   text-align: left;
   padding: 8px;
    background-color:FFC4C4;
+}
+
+div.titulo{
+color: red;
+}
+
+h1.titulodos{
+color: FF4545;
 }
