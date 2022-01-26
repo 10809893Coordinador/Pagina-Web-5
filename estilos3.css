@@ -59,7 +59,7 @@
 	font-family: "Trirong", sans-serif;
 	font-size: 50px;
 	padding: 1px;
-	text-shadow: 2px 0 3px #ff0002;
+	text-shadow: 4px 0 7px #778FBB;
 }
 	h2.trirong {
 	font-family: "Trirong", sans-serif;
@@ -67,7 +67,7 @@
 	border: 1px solid grey;
 	border-radius: 8px;
 	padding: 1px;
-	text-shadow: 2px 0 3px #ff0002;
+	text-shadow: 2px 0 3px #778FBB;
 }
 	h3 {
 	font-size: 15px;
@@ -99,7 +99,7 @@
 	margin-left: 124px;
 }
 	font.rek {
-	color: #3E719A
+	color: #778FBB
 }
 	table.zeta {
 	border-collapse: collapse;
@@ -129,3 +129,6 @@
 	img.axa {
 	vertical-align: baseline;
 } 
+	img.h:hover {
+	opacity: 0.5;
+}
