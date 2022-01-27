@@ -1,4 +1,4 @@
-		ul.menu { 
+	ul.menu { 
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
@@ -59,7 +59,7 @@
 	font-family: "Trirong", sans-serif;
 	font-size: 50px;
 	padding: 1px;
-	text-shadow: 4px 0 7px #778FBB;
+	text-shadow: 2px 0 4px #778FBB;
 }
 	h2.trirong {
 	font-family: "Trirong", sans-serif;
