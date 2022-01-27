@@ -12,7 +12,7 @@ div.uno{
 
 img.x { 
   width: 100%;
-  height: auto;
+  height: 300px;
   opacity: 1;
 }
 
@@ -93,7 +93,7 @@ th.mun, td.mun {
 th.mund, td.mund {
   text-align: left;
   padding: 8px;
-  background-color:FF2C2C;
+  background-color:260077;
 }
 
 table.men {
@@ -103,7 +103,7 @@ table.men {
 th.muna, td.muna {
   text-align: left;
   padding: 8px;
-   background-color:FFC4C4;
+   background-color:DBCAFF;
 }
 
 div.titulo{
@@ -112,4 +112,36 @@ color: red;
 
 h1.titulodos{
 color: FF4545;
+}
+
+
+h1.titulomax{
+color: 260077;
+font-family: "Trirong", sans-serif;
+font-size: 50px;
+padding: 1px;
+text-shadow: 4px 0 7px #778FBB;
+}
+
+div.titulog {
+  top: 43%;
+  left: 2%;
+  width: 100%;
+  font-size: 80px;
+  color:260077
+}
+
+a:hover.linksm{
+color:FF6B16;
+}
+a.linksm{
+text-decoration: none;
+color:purple;
+}
+h2.titulomax {
+	font-family: "Trirong", sans-serif;
+	font-size: 20px;
+	
+	text-shadow: 2px 0 3px #778FBB;
+	color: 260077;
 }
