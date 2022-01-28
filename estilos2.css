@@ -8,11 +8,16 @@ div.titulo {
 div.uno{
 	text-align:Left;
 	vertical-align:top;
+	padding-left:15px;
 }
-
-img.x { 
+img.xos { 
   width: 100%;
-  height: 300px;
+  height: natural;
+  opacity: 1;
+}
+img.xuno { 
+  width: 417px;
+  height: 450px;
   opacity: 1;
 }
 
@@ -95,17 +100,26 @@ th.mund, td.mund {
   padding: 8px;
   background-color:260077;
 }
-
+th.munds, td.munds {
+  text-align: left;
+  padding: 8px;
+  background-color:FF3535;
+}
 table.men {
   border-collapse: collapse;
   width: 100%;
+  border-color:CA3434;
 }
 th.muna, td.muna {
   text-align: left;
   padding: 8px;
    background-color:DBCAFF;
 }
-
+th.munas, td.munas {
+  text-align: left;
+  padding: 8px;
+   background-color:E3A0A0;
+}
 div.titulo{
 color: red;
 }
@@ -141,7 +155,9 @@ color:purple;
 h2.titulomax {
 	font-family: "Trirong", sans-serif;
 	font-size: 20px;
-	
+	border: 1px solid grey;
+	border-radius: 8px;
+	padding: 1px;
 	text-shadow: 2px 0 3px #778FBB;
 	color: 260077;
 }
