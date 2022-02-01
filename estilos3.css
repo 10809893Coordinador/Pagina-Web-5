@@ -1,4 +1,4 @@
-	ul.menu { 
+		ul.menu { 
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
@@ -78,6 +78,14 @@
 	font-family: "Trirong", sans-serif;
 	font-size: 50px;
 	padding: 1px;
+	text-shadow: 2px 0 4px #A0FAE6;
+}
+	h5.trirong {
+	font-family: "Trirong", sans-serif;
+	font-size: 20px;
+	border: 1px solid grey;
+	border-radius: 8px;
+	padding: 1px;
 	text-shadow: 2px 0 3px #A0FAE6;
 }
 	h5.trirong {
@@ -99,7 +107,10 @@
 	margin-left: 124px;
 }
 	font.rek {
-	color: #778FBB
+	color: #38386C
+}
+	font.rik {
+	color: #085030
 }
 	table.zeta {
 	border-collapse: collapse;
@@ -117,6 +128,25 @@
 	tr.ab:nth-child(even)
 	{background-color: #DCDFB9;}
 	
+	table.eme {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+	th.ac, td.ac {
+	text-align: left;
+	padding: 8px;
+}
+
+	tr.ac:nth-child(even)
+	{background-color: #FFFFFF;} 
+
+	tr.ac:nth-child(odd)
+	{background-color: #41EAE3;}
+	
+	
+	
+	
 	ul.lista {
 	background: #778FBB;
 	padding: 20px;
@@ -132,3 +162,4 @@
 	img.h:hover {
 	opacity: 0.5;
 }
+	
