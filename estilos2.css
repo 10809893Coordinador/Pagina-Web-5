@@ -14,11 +14,13 @@ img.xos {
   width: 100%;
   height: natural;
   opacity: 1;
+   box-shadow:5px 5px #A5A5A5
 }
 img.xuno { 
   width: 417px;
   height: 450px;
   opacity: 1;
+   box-shadow:5px 5px #A5A5A5
 }
 
 div.fondo-img{
@@ -105,10 +107,17 @@ th.munds, td.munds {
   padding: 8px;
   background-color:FF3535;
 }
-table.men {
+table.menr {
   border-collapse: collapse;
   width: 100%;
   border-color:CA3434;
+   box-shadow:5px 5px #A5A5A5
+}
+table.menm {
+  border-collapse: collapse;
+  width: 100%;
+  border-color:B567F3;
+  box-shadow:5px 5px #A5A5A5
 }
 th.muna, td.muna {
   text-align: left;
@@ -137,6 +146,14 @@ padding: 1px;
 text-shadow: 4px 0 7px #778FBB;
 }
 
+h1.titulosum{
+color: red;
+font-family: "Trirong", sans-serif;
+font-size: 50px;
+padding: 1px;
+text-shadow: 4px 0 7px #67001C;
+}
+
 div.titulog {
   top: 43%;
   left: 2%;
@@ -160,4 +177,14 @@ h2.titulomax {
 	padding: 1px;
 	text-shadow: 2px 0 3px #778FBB;
 	color: 260077;
+}
+
+h2.titulosum {
+	font-family: "Trirong", sans-serif;
+	font-size: 20px;
+	border: 1px solid grey;
+	border-radius: 8px;
+	padding: 1px;
+	text-shadow: 2px 0 3px #67001C;
+	color: red;
 }
