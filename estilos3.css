@@ -59,7 +59,7 @@
 	display: block;
 }
 	div.texto1{
-	text-align:Left;
+	text-align:left;
 	vertical-align:top;
 	padding-right:15px;
 }
@@ -166,7 +166,6 @@
 	margin: 5px;
 }
 
-		
 	ul.lista2 {
 	background: #156D6A;
 	padding: 20px;
@@ -176,7 +175,7 @@
 	background: #F9FED6;
 	margin: 5px;
 }
-	img.axa {
+	img.vert {
 	vertical-align: baseline;
 } 
 	img.h:hover {
@@ -200,5 +199,3 @@
 	opacity: 1;
 	box-shadow:5px 5px #A5A5A5
 }
-
-	
