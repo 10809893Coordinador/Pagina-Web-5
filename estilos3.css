@@ -1,4 +1,11 @@
-			ul.menu { 
+	body {
+  background-image: url("images/fondo2.png");
+  
+}		
+
+
+
+ul.menu { 
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
