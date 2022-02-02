@@ -1,3 +1,8 @@
+body {
+  background-image: url("images/fondo2.png");
+  
+}
+
 img.x { 
   width: 100%;
   height: auto;
@@ -13,7 +18,7 @@ div.center {
   left: 2%;
   width: 100%;
   font-size: 86px;
-  color: white;
+  color: grey;
   text-shadow: 2px 5px 0px #4176a3
 }
 
@@ -81,3 +86,10 @@ li.dropdown {
 p.a {
   vertical-align: text-top;
 }
+
+img.holap{
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
