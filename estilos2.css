@@ -193,3 +193,9 @@ h2.titulosum {
 	text-shadow: 2px 0 3px #67001C;
 	color: red;
 }
+
+div.redes {
+	background-color: #333;
+	height: 50px;
+	padding: 30px;
+}
