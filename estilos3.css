@@ -1,4 +1,4 @@
-		ul.menu { 
+			ul.menu { 
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
@@ -156,10 +156,20 @@
 	background: #DCDFB9;
 	margin: 5px;
 }
+
+		
+	ul.lista2 {
+	background: #156D6A;
+	padding: 20px;
+}
+
+	ul li.premios2 {
+	background: #F9FED6;
+	margin: 5px;
+}
 	img.axa {
 	vertical-align: baseline;
 } 
 	img.h:hover {
 	opacity: 0.5;
 }
-	
