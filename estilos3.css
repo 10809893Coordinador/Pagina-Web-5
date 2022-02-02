@@ -1,11 +1,4 @@
-	body {
-  background-image: url("images/fondo2.png");
-  
-}		
-
-
-
-ul.menu { 
+	ul.menu { 
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
@@ -61,39 +54,54 @@ ul.menu {
 	.dropdown:hover .dropdown-content {
 	display: block;
 }
-	
-	h1.trirong {
+	div.texto1{
+	text-align:Left;
+	vertical-align:top;
+	padding-right:15px;
+}
+	div.texto2{
+	text-align:Left;
+	vertical-align:top;
+	padding-left:15px;
+}
+	/*Títulos de Alonso*/
+	h1.fer1 {
+	color: #252DA9;
 	font-family: "Trirong", sans-serif;
 	font-size: 50px;
 	padding: 1px;
-	text-shadow: 2px 0 4px #778FBB;
+	text-shadow: 3px 0 7px #13185D;
 }
-	h2.trirong {
+	h1.fer2 {
+	color: #252DA9;	
 	font-family: "Trirong", sans-serif;
 	font-size: 20px;
 	border: 1px solid grey;
 	border-radius: 8px;
 	padding: 1px;
-	text-shadow: 2px 0 3px #778FBB;
+	text-shadow: 2px 0 3px #13185D;
+}
+	/*Títulos de Hamilton*/
+	h1.ham1 {
+	color: #0B6450;
+	font-family: "Trirong", sans-serif;
+	font-size: 50px;
+	padding: 1px;
+	text-shadow: 3px 0 7px #37B89C;
+}
+	h1.ham2 {
+	color: #0B6450;	
+	font-family: "Trirong", sans-serif;
+	font-size: 20px;
+	border: 1px solid grey;
+	border-radius: 8px;
+	padding: 1px;
+	text-shadow: 2px 0 3px #37B89C;
 }
 	h3 {
 	font-size: 15px;
 	margin-left: 10px;
 	margin-right: 10px;
-}
-	h4.trirong {
-	font-family: "Trirong", sans-serif;
-	font-size: 50px;
-	padding: 1px;
-	text-shadow: 2px 0 4px #A0FAE6;
-}
-	h5.trirong {
-	font-family: "Trirong", sans-serif;
-	font-size: 20px;
-	border: 1px solid grey;
-	border-radius: 8px;
-	padding: 1px;
-	text-shadow: 2px 0 3px #A0FAE6;
 }
 	a.m1 {
 	margin-left: 10px;
@@ -135,16 +143,14 @@ ul.menu {
 	th.ac, td.ac {
 	text-align: left;
 	padding: 8px;
+	text-color:
 }
 
 	tr.ac:nth-child(even)
-	{background-color: #FFFFFF;} 
+	{background-color: #C7F4EA;} 
 
 	tr.ac:nth-child(odd)
-	{background-color: #41EAE3;}
-	
-	
-	
+	{background-color: #C7F4EA;}
 	
 	ul.lista {
 	background: #778FBB;
@@ -172,3 +178,23 @@ ul.menu {
 	img.h:hover {
 	opacity: 0.5;
 }
+	a:hover.links{
+	color:#044641;
+}
+	a.links{
+	text-decoration: none;
+	color:#008DE0;
+}
+	div.redes {
+	background-color: #333;
+	height: 50px;
+	padding: 30px;
+}
+	img.edit { 
+	width: 100%;
+	height: natural;
+	opacity: 1;
+	box-shadow:5px 5px #A5A5A5
+}
+
+	
