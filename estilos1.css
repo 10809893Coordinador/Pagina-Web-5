@@ -18,8 +18,12 @@ div.center {
   left: 2%;
   width: 100%;
   font-size: 86px;
-  color: grey;
-  text-shadow: 2px 5px 0px #4176a3
+  color: #BD6604;
+  text-shadow: 2px 0 4px #FF8700;
+  font-family: "Trirong", sans-serif;
+  padding: 1px;
+
+}
 }
 
 img.jeje{
@@ -91,5 +95,52 @@ img.holap{
  display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+	h3.trirong {
+	font-family: "Trirong", sans-serif;
+	font-size: 20px;
+	border: 1px solid grey;
+	border-radius: 8px;
+	padding: 1px;
+	text-shadow: 2px 0 3px #F1A148;
+	color: #C68338;
+}
+
+tr.merc {
+	 background-color: #21E1D1;
+}
+tr.red {
+	 background-color: #511BF3;
+}
+tr.fer {
+	 background-color: #E23025;
+}
+tr.mc {
+	 background-color: #E68919;
+}
+tr.alp {
+	 background-color: #19ADE6;
+}
+tr.alph {
+	 background-color: #9EA1A2;
+}
+tr.ast {
+	 background-color: #56955F;
+}
+tr.will {
+	 background-color: #2F5FF9;
+}
+tr.rome {
+	 background-color: #B4453C;
+}
+tr.haas {
+	 background-color: #FFFFFF;
+}
+
+div.redes {
+	background-color: #333;
+	height: 50px;
+	padding: 30px;
 }
 
